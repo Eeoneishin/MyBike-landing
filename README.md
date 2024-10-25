@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+A landing page for a bicycle company website, built using BEM methodology, SASS, and CSS layouts with grid and flexbox. The design is fully responsive.
+
     - [DEMO LINK](https://Eeoneishin.github.io/MyBike-landing/)
